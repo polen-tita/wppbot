@@ -4,7 +4,9 @@
 
   > Proyecto en desarrollo. Todavía no es una release final.
 
-  ![WPP Bot en WhatsApp](docs/images/wppbot-chat.png)
+  <p align="center">
+    <img src="docs/images/wppbot-terminal.jpeg" alt="Terminal del WPP Bot" width="900">
+  </p>
 
   ## ¿Qué es?
 
@@ -43,19 +45,11 @@
 
   ## Capturas
 
-  ![Comandos en WhatsApp](docs/images/wppbot-chat.png)
-
-  ![Procesamiento multimedia](docs/images/wppbot-media.png)
+  <p align="center">
+    <img src="docs/images/comandosenwpp.jpeg" alt="Comandos del WPP Bot en WhatsApp" width="520">
+  </p>
 
 
   ## Estado del proyecto
 
   WPP Bot se encuentra en construcción. La arquitectura principal está funcionando y se siguen incorporando mejoras, controles y nuevas funciones.
-
-  Creá esta estructura dentro del repositorio:
-
-  docs/
-  └── images/
-      ├── wppbot-chat.png
-      ├── wppbot-terminal.png
-      └── wppbot-media.png
