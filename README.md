@@ -53,3 +53,9 @@
   ## Estado del proyecto
 
   WPP Bot se encuentra en construcción. La arquitectura principal está funcionando y se siguen incorporando mejoras, controles y nuevas funciones.
+
+  ## ¿Querés más información?
+
+  ¿Querés conocer más sobre el proyecto o ver una demo? ¡Contactame!
+
+  [![Contactame por Discord](https://img.shields.io/badge/Discord-Contactame-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1461001287075102882)
